@@ -14,7 +14,8 @@ struct Handler;
 
 const SUPPORTED_URLS: [&str; 2] = [
   "https://open.spotify.com",
-  "https://music.apple.com/"
+  "https://music.apple.com",
+  "https://spotify.link"
 ];
 
 const DISPLAY_SERVICES: [&str; 4] = [
